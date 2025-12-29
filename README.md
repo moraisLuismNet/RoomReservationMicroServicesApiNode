@@ -165,7 +165,7 @@ ReservationsMicroService/
 </kbd>  
 
 <kbd>
-  <img src="img/reservations-db.png" width="30%" height="30%" alt="reservations-db">
+  <img src="img/reservations-db.png" width="40%" height="40%" alt="reservations-db">
 </kbd>  
 
 ## RoomMicroService
@@ -192,7 +192,7 @@ RoomMicroService/
 </kbd>  
 
 <kbd>
-  <img src="img/room-db.png" width="30%" height="30%" alt="room-db">
+  <img src="img/room-db.png" width="40%" height="40%" alt="room-db">
 </kbd>  
 
 ## SendEmailsMicroService
@@ -219,7 +219,7 @@ SendEmailsMicroService/
 </kbd>  
 
 <kbd>
-  <img src="img/sendingemails-db.png" width="20%" height="20%" alt="sendingemails-db">
+  <img src="img/sendingemails-db.png" width="40%" height="40%" alt="sendingemails-db">
 </kbd>  
 
 ## UserAndAuthorizationManagementMicroService
@@ -246,7 +246,7 @@ UserAndAuthorizationManagementMicroService/
 </kbd>  
 
 <kbd>
-  <img src="img/user-authorization-db.png" width="20%" height="20%" alt="user-authorization-db">
+  <img src="img/user-authorization-db.png" width="40%" height="40%" alt="user-authorization-db">
 </kbd>  
 
 [DeepWiki moraisLuismNet/RoomReservationMicroServicesApiNode](https://deepwiki.com/moraisLuismNet/RoomReservationMicroServicesApiNode)
